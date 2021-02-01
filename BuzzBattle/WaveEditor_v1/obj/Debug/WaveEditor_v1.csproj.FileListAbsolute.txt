@@ -1,0 +1,10 @@
+Z:\IGMProfile\Desktop\lab to hub\buzzbattle\WaveEditor_v1\bin\Debug\WaveEditor_v1.exe.config
+Z:\IGMProfile\Desktop\lab to hub\buzzbattle\WaveEditor_v1\bin\Debug\WaveEditor_v1.exe
+Z:\IGMProfile\Desktop\lab to hub\buzzbattle\WaveEditor_v1\bin\Debug\WaveEditor_v1.pdb
+Z:\IGMProfile\Desktop\lab to hub\buzzbattle\WaveEditor_v1\obj\Debug\WaveEditor_v1.csprojAssemblyReference.cache
+Z:\IGMProfile\Desktop\lab to hub\buzzbattle\WaveEditor_v1\obj\Debug\WaveEditor_v1.Form1.resources
+Z:\IGMProfile\Desktop\lab to hub\buzzbattle\WaveEditor_v1\obj\Debug\WaveEditor_v1.Properties.Resources.resources
+Z:\IGMProfile\Desktop\lab to hub\buzzbattle\WaveEditor_v1\obj\Debug\WaveEditor_v1.csproj.GenerateResource.cache
+Z:\IGMProfile\Desktop\lab to hub\buzzbattle\WaveEditor_v1\obj\Debug\WaveEditor_v1.csproj.CoreCompileInputs.cache
+Z:\IGMProfile\Desktop\lab to hub\buzzbattle\WaveEditor_v1\obj\Debug\WaveEditor_v1.exe
+Z:\IGMProfile\Desktop\lab to hub\buzzbattle\WaveEditor_v1\obj\Debug\WaveEditor_v1.pdb

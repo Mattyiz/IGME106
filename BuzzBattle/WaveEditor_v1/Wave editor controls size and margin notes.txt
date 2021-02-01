@@ -1,0 +1,14 @@
+ToolStripLabel
+Margin: 40, 1, 0, 2
+
+Size: 45, 20
+
+
+ToolStripButtons
+Size: 23, 20
+
+
+ToolStripSeparator:
+
+Margin: 90, 0, 0, 0
+Size: 6, 23

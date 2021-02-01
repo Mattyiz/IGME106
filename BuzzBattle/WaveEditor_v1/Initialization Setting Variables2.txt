@@ -1,0 +1,43 @@
+Color backColor_W
+Color backColorSelected_W
+
+
+
+========================================
+TOOLSTRIP (WAVE PANEL):
+========================================
+
+Point topLocation_W
+
+Padding padding_W
+Padding margin_W 
+
+Size size_W
+
+
+
+========================================
+TOOLSTRIP ITEMS:
+========================================
+
+====================
+- ToolStripLabel
+====================
+
+Padding margin_WLabel
+Size size_WLabel
+
+
+====================
+- ToolStripButton
+====================
+
+Size size_WButton
+
+
+====================
+- ToolStripSeparator
+====================
+
+Padding margin_WSeparator
+Size size_WSeparator
